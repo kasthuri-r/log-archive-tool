@@ -15,14 +15,15 @@ A simple command-line tool to compress `.log` files older than a specified numbe
 
 ---
 
+## Project Reference
+**Project URL**:  [roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
+
+---
+
 ## Usage
 
 ```bash
 ./log-archive.sh <log-directory> <archive-directory> <days-old>
 
----
 
-**project URL**:[roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
-
----
 
